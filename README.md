@@ -39,6 +39,7 @@ NEAT is an evolutionary algorithm that evolves neural networks. This implementat
 ### Results
 
 The NEAT implementation successfully evolves neural networks that solve the XOR problem with extremely high accuracy, MAXIMUM FITNESS = 4. Example outputs (BEST GENOME IS VISUALIZED USING MATPLOTLIB):
+**NOTE:** Multiple weights on one connection line is an indication of overlapping connections between neurons.
 - ![image](https://github.com/user-attachments/assets/bd4d240c-7583-4abd-8956-e8c02b970dc6) EVOLVED FROM POPULATION OF 2 INPUT NODES, 1 HIDDEN NODE, 1 OUTPUT NODE
 - OUTPUT:  3.144372587256935e-08
 - EXPECTED:  0
