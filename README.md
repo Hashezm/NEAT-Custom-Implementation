@@ -1,5 +1,5 @@
 # NEAT-Custom-Implementation
-NeuroEvolution of Augmenting Topologies implementation from scratch using information from K. O Stanley's original research paper (check file stanley.pdf - Copy) as well as his neat-users-page Q&amp;A (https://www.kenstanley.net/neat-users-page). This algorithm dynamically evolves neural networks by adding nodes and connections, optimizing weights, and using speciation to maintain diversity.
+NeuroEvolution of Augmenting Topologies implementation from scratch using information from K. O Stanley's original research paper (check file stanley.pdf - Copy) as well as his neat-users-page Q&amp;A (https://www.kenstanley.net/neat-users-page). This algorithm dynamically evolves neural networks by adding nodes and connections, optimizing weights, and using speciation to maintain diversity. So far, I have tested my NEAT implementation on the simple XOR problem, and I am continuously working on further applications of this "neat" algorithm!
 
 ## Overview
 
