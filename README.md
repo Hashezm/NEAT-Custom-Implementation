@@ -50,7 +50,7 @@ The NEAT implementation successfully evolves neural networks that solve the XOR 
 - OUTPUT:  6.300895687077827e-25
 - EXPECTED:  0
 - BEST GENOME TEST:  3.9999950892541114
-- ![image](https://github.com/user-attachments/assets/27446b07-04a3-4849-9f83-bc81e3fcc50a) EVOLVED FROM POPULATION OF 2 INPUT NODES, 1 HIDDEN NODE, 1 OUTPUT NODE
+- ![image](https://github.com/user-attachments/assets/27446b07-04a3-4849-9f83-bc81e3fcc50a) EVOLVED FROM POPULATION OF 2 INPUT NODES, 0 HIDDEN NODES, 1 OUTPUT NODE
 - OUTPUT:  6.4472244260940115e-06
 - EXPECTED:  0
 - OUTPUT:  0.9999675106118514
